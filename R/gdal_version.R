@@ -4,6 +4,7 @@
 #'
 #' from terra
 #'
+#' @export
 #' @importFrom terra gdal
 #' @examples
 #' gdal_version()
