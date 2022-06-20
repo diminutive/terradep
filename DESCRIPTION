@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Imports: 
     terra
+URL: https://github.com/diminutive/terradep
+BugReports: https://github.com/diminutive/terradep/issues
